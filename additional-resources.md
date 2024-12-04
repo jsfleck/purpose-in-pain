@@ -29,12 +29,9 @@
   <section class="default-text-format">
     <h2>Fyodor Dostoevsky's books:</h2>
     <p class="horizontal-images">
-      <img src="Assets/Demons.jpg" alt="Demons" />
-      <img src="Assets/BrothersKaramazov.jpeg" alt="The Brothers Karamazov" />
-      <img src="Assets/CrimeandPunishment.jpg" alt="Crime and Punishment" />
-      <img src="Assets/NotesFromUnderground.jpg" alt="Notes from Underground" />
-      <img src="Assets/TheHouseoftheDead.jpeg" alt="The House of the Dead" />
-      <img src="Assets/TheIdiot.jpg" alt="The Idiot" />
+      <img src="Assets/OneDayintheLifeofIvanDenisovich.jpeg" alt="One Day in the Life of Ivan Denisovich" />
+      <img src="Assets/CancerWard.jpeg" alt="Cancer Ward" />
+      <img src="Assets/GulagArchipelago.webp" alt="The Gulag Archipelago" />
     </p>
   </section>
 </body>
