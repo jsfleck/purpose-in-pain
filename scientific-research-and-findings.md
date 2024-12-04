@@ -3,7 +3,6 @@
 {% include navigation-tabs.html %} <!-- Include the shared navigation tabs -->
 
 <body>
-  {% include navigation-tabs.html %}
   <section class="default-text-format">
     <h2>Scientific Research and Findings</h2>
     <p>

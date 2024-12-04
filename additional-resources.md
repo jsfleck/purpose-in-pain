@@ -3,5 +3,10 @@
 {% include navigation-tabs.html %} <!-- Include the shared navigation tabs -->
 
 <body>
-test
+  <section class="default-text-format">
+    <h2>ad rev</h2>
+    <p>
+      Tsddfasdf
+    </p>
+  </section>
 </body>
