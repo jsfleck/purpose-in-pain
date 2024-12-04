@@ -13,8 +13,7 @@
   So what’s going on? Why does it seem like so many people are suffering so much when we should be doing so well? Why does the youngest generation seem to be suffering more than any other one before? Even better: what tools do we have that can help us combat this mental health crisis in our lives and in the lives of our loved ones? The content of this website provide some of the answers I found and the places where I found them. For me, these findings were very enlightening, comforting, and encouraging. I hope you as the viewers, especially if you are suffering in any of the ways just mentioned, find some hope as well.
   </p>
 
-  <p>
-								Sincerely,
-									Jake Fleck
-  </p>
+  <p>Sincerely,</p>
+  
+  <p>&#9;Jake Fleck</p>
 </section>
