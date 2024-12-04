@@ -33,6 +33,20 @@
   </section>
 
   <section class="default-text-format">
+    <h2>Aleksandr Solzhenitsyn</h2>
+    <img class="responsive-image" src="Assets/Solzhenitsynportrait.jpg"/>
+    <p>
+      Aleksandr Solzhenitsyn was a member of the Russian aristocracy through the 20th century. Despite this, he lived a remarkably difficult life. Serving as a captain in the Red Army, he was forced to fight in some of the worst battles of World War 2 against the Nazis. After being declared treasonous for criticizing the way Stalin was handling the war, he was sent to the Gulags in Siberia. Solzhenitsyn spent the next eleven years of his life in these forced labor camps, where he eventually developed cancer. Nonetheless, he survived.
+    </p>
+    <p>
+      After being released from the Gulag system, he wrote a memoir he called the Gulag Archipelago. His memoir, having sold millions of copies in multiple languages all over the world, served as one of the first pieces of irrefutable evidence portraying the depravity of the Soviet State and the Marxist Philosophy. This was effectively one of the final blows that brought down the Soviet Union and ended the Cold War.
+    </p>
+    <blockquote>
+      <p>“The line separating good and evil passes not through states, nor between classes, nor between political parties either -- but right through every human heart -- and through all human hearts. This line shifts. Inside us, it oscillates with the years. And even within hearts overwhelmed by evil, one small bridgehead of good is retained”</p>
+    </blockquote>
+  </section>
+
+  <section class="default-text-format">
     <h2>Fyodor Dostoevsky</h2>
     <img class="responsive-image" src="Assets/Dostoevskyportrait.jpg"/>
     <p>
@@ -54,5 +68,5 @@
       <p>“There is only one thing I dread: not being worthy of my sufferings.”</p>
     </blockquote>
   </section>
-  
+
 </body>
