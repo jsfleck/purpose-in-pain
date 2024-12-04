@@ -1,6 +1,6 @@
 <style>
   body {
-    background-image: url('path/to/your/image.jpg');
+    background-image: url('Assets/pexels-photo-2792043.jpeg');
     background-size: cover;
     background-position: center;
   }
