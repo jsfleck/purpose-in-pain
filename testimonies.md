@@ -35,24 +35,24 @@
   <section class="default-text-format">
     <h2>Fyodor Dostoevsky</h2>
     <img class="responsive-image" src="Assets/Dostoevskyportrait.jpg"/>
-  </section>
-  <p>
-    Fyodor Dostoevsky was an 1800s Russian novelist who is considered today to be one of the greatest writers in world history. He is known as one of the first existential philosophers, his incredible psychological insight, and for predicting the Russian revolution and its ensuing genocide over forty years before it took place.  
-  </p>
-  <p>
+    <p>
+    Fyodor Dostoevsky was an 1800s Russian novelist who is considered today to be one of the greatest writers in world history. He is known as one of the first existential philosophers, his incredible psychological insight, and for predicting the Russian revolution and its ensuing genocide over forty years before it took place. 
+    </p>
+    <p>
     Declared treasonous in 1850, he was sentenced to death by firing squad. While standing in front of the firing squad, there were finally orders received to send him to forced labor in Siberia for four years instead. This close encounter with death caused him to develop a rare form of epilepsy. After his four years of forced labor, he was forced to serve 8 years in the Russian army. Only after all of this pain and suffering did Dostoevsky write all of his greatest books he is most well known for today.
-  </p>
-  <blockquote>
-    <p>“Nothing in the world is harder than speaking the truth, nothing easier than flattery.”</p>
-  </blockquote>
-  <blockquote>
-    <p>“What is hell? I maintain that it is the suffering of being unable to love.”</p>
-  </blockquote>
-  <blockquote>
-    <p>“Love in action is a harsh and dreadful thing compared with love in dreams.”</p>
-  </blockquote>
-  <blockquote>
-    <p>“There is only one thing I dread: not being worthy of my sufferings.”</p>
-  </blockquote>
-
+    </p>
+    <blockquote>
+      <p>“Nothing in the world is harder than speaking the truth, nothing easier than flattery.”</p>
+    </blockquote>
+    <blockquote>
+      <p>“What is hell? I maintain that it is the suffering of being unable to love.”</p>
+    </blockquote>
+    <blockquote>
+      <p>“Love in action is a harsh and dreadful thing compared with love in dreams.”</p>
+    </blockquote>
+    <blockquote>
+      <p>“There is only one thing I dread: not being worthy of my sufferings.”</p>
+    </blockquote>
+  </section>
+  
 </body>
