@@ -42,7 +42,7 @@
     </p>
     <h2>Antifragility</h2>
     <img class="responsive-image" src="Assets/antifragility1.jpg" alt="Anti fragility 1" />
-    <p>vs</p>
+    <p style="text-align: center; font-weight: bold;">vs</p>
     <img class="responsive-image" src="Assets/antifragility2.jpg" alt="Anti fragility 2" />
     <p>
       This term helps illustrate the premise of exposure therapy. Contrary to
