@@ -75,3 +75,13 @@ p {
 blockquote {
   color: wheat;
 }
+
+.horizontal-images {
+  display: flex;
+  justify-content: space-around;
+}
+
+.horizontal-images img {
+  max-width: 30%;
+  height: auto;
+}

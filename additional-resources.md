@@ -4,11 +4,11 @@
 
 <body>
   <section class="default-text-format">
-    <h2>ad rev</h2>
-    <p>
-      <img class="responsive-image small-image" src="Assets/ViktorFrankl1.jpg" alt="ViktorFrankl1.jpg" />
-      <img class="responsive-image" src="Assets/VIktorFrankl2.jpg" alt="ViktorFrankl2.jpg" />
-      <img class="responsive-image" src="Assets/ViktorFrankl3.webp" alt="ViktorFrankl3.jpg" />
+    <h2>Viktor E. Frankl's books:</h2>
+    <p class="horizontal-images">
+      <img src="Assets/ViktorFrankl1.jpg" alt="ViktorFrankl1.jpg" />
+      <img src="Assets/VIktorFrankl2.jpg" alt="ViktorFrankl2.jpg" />
+      <img src="Assets/ViktorFrankl3.webp" alt="ViktorFrankl3.jpg" />
     </p>
   </section>
 </body>
