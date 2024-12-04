@@ -34,7 +34,8 @@ nav a:hover {
   color: black;
 }
 
-.mission-statement {
+.default-text-format {
+  /* Updated class name */
   text-align: center;
   margin: 20px auto;
   padding: 20px;
