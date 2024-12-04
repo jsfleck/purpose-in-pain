@@ -41,3 +41,13 @@ nav a:hover {
   color: wheat;
   background-color: rgba(0, 0, 0, 0.5); /* Translucent background */
 }
+
+.tabs {
+  display: flex;
+  justify-content: center;
+  margin: 20px auto;
+  padding: 10px;
+  background-color: rgba(0, 0, 0, 0.5);
+  border-radius: 10px;
+  max-width: 800px;
+}
