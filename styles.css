@@ -67,6 +67,11 @@ p {
   margin: 0 auto;
 }
 
+.small-image {
+  max-width: 50%;
+  height: auto;
+}
+
 blockquote {
   color: wheat;
 }
