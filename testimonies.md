@@ -18,16 +18,16 @@
       <p>That which is to give light must endure burning.</p>
     </blockquote>
     <blockquote>
-      <p>In some ways, suffering ceases to be suffering at the moment it finds a meaning, such as the meaning of a sacrifice.</p>
+      <p>"In some ways, suffering ceases to be suffering at the moment it finds a meaning, such as the meaning of a sacrifice."</p>
     </blockquote>
     <blockquote>
-      <p>Ultimately, man should not ask what the meaning of his life is, but rather must recognize that it is he who is being asked.</p>
+      <p>"Ultimately, man should not ask what the meaning of his life is, but rather must recognize that it is he who is being asked."</p>
     </blockquote>
     <blockquote>
-      <p>Everything can be taken from a man but one thing: the last of the human freedoms - to choose one’s attitude in any given set of circumstances, to choose one’s own way.</p>
+      <p>"Everything can be taken from a man but one thing: the last of the human freedoms - to choose one’s attitude in any given set of circumstances, to choose one’s own way."</p>
     </blockquote>
     <blockquote>
-      <p>Even when it is not fully attained, we become better by striving for a higher goal.</p>
+      <p>"Even when it is not fully attained, we become better by striving for a higher goal."</p>
     </blockquote>
   </section>
 </body>
