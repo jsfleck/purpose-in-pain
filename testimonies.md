@@ -5,6 +5,7 @@
 <body>
   <section class="default-text-format">
     <h2>Viktor Frankl</h2>
+    <img class="responsive-image" src="Assets/Franklportrait.webp"/>
     <p>
       Viktor Frankl was a prominent Austrian Psychiatrist of the 20th century who developed a new field of psychiatric practice he called logotherapy. The basic philosophical premise of logotherapy is that the fundamental drive in the human psyche is not the sex drive as Sigmund Freud believed, or a will to power as Alfred Adler believed, but what he called a “will to meaning,” that being a drive to find the basic purpose in one’s life.
     </p>
