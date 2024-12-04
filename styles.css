@@ -20,7 +20,7 @@ nav li {
 }
 nav a {
   text-decoration: none;
-  color: #007bff;
+  color: wheat; /* Changed from #007bff to wheat */
   font-weight: bold;
 }
 nav a:hover {
