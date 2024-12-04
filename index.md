@@ -1,12 +1,6 @@
 <link rel="stylesheet" type="text/css" href="styles.css">
 
-<nav class="tabs">
-  <ul>
-    <li><a href="#scientific-research-and-findings">Scientific Research and Findings</a></li>
-    <li><a href="#testimonies">Testimonies</a></li>
-    <li><a href="#additional-resources">Additional Resources</a></li>
-  </ul>
-</nav>
+{% include navigation-tabs.html %} <!-- Include the shared navigation tabs -->
 
 <section class="mission-statement">
   <h2>Our Mission</h2>
