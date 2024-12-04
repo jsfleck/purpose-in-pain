@@ -15,13 +15,8 @@
       leading to the major health crisis of Gen Z. At the bottom of the page
       is a link to his official website for further information.
     </p>
-    <h2>Problems of progress</h2>
-
-    <img
-      class="responsive-image"
-      src="Assets/problemsofprogress.jpeg"
-      alt="Problems of Progress"
-    />
+    <h2>Problems of Progress</h2>
+    <img class="responsive-image" src="Assets/problemsofprogress.jpeg" alt="Problems of Progress" />
     <p>
       These are problems that are seen either solely or disproportionately in
       first world cultures. They are thought to arise uniquely as a
@@ -29,12 +24,7 @@
       obesity, diabetes, depression, and suicide.
     </p>
     <h2>Concept Creep</h2>
-    <img
-      class="responsive-image"
-      src="Assets/conceptcreep.webp"
-      alt="Concept Creep"
-    />
-
+    <img class="responsive-image" src="Assets/conceptcreep.webp" alt="Concept Creep" />
     <p>
       This is a phenomenon in which the definition of a term slowly grows over
       time to include things that were not part of the original definition.
@@ -43,27 +33,15 @@
       likely to catastrophize.
     </p>
     <h2>Antifragility</h2>
-    <img
-      class="responsive-image"
-      src="Assets/antifragility1.jpg"
-      alt="Anti fragility 1"
-    />
-    <img
-      class="responsive-image"
-      src="Assets/antifragility2.jpg"
-      alt="Anti fragility 2"
-    />
+    <img class="responsive-image" src="Assets/antifragility1.jpg" alt="Anti fragility 1" />
+    <img class="responsive-image" src="Assets/antifragility2.jpg" alt="Anti fragility 2" />
     <p>
       This term helps illustrate the premise of exposure therapy. Contrary to
       things that are fragile, things that are antifragile grow or strengthen
       through some sort of exposure, testing, or challenging.
     </p>
     <h2>Safetyism</h2>
-    <img
-      class="responsive-image"
-      src="Assets/safetyism.webp"
-      alt="safetyism"
-    />
+    <img class="responsive-image" src="Assets/safetyism.webp" alt="safetyism" />
     <p>
       This is the name for a current cultural phenomenon in which parents
       overly-prioritize protecting their children from harm. In neglect of
@@ -71,11 +49,7 @@
       proving to have long-term, unforeseen consequences.
     </p>
     <p>
-      <a href="https://www.thecoddling.com/"
-        >Jonathan Haidt's Official Website</a
-      >
+      <a href="https://www.thecoddling.com/">Jonathan Haidt's Official Website</a>
     </p>
-
   </section>
-
 </body>
