@@ -34,4 +34,11 @@
       <img src="Assets/GulagArchipelago.webp" alt="The Gulag Archipelago" />
     </p>
   </section>
+
+  <section class="default-text-format">
+    <h2>Dr. David Burns book:</h2>
+    <div class="horizontal-images" style="text-align: center;">
+      <img src="Assets/FeelingGood.jpg" alt="Feeling Good" />
+    </div>
+  </section>
 </body>
