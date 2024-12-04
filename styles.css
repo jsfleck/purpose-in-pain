@@ -23,6 +23,9 @@ nav a {
   color: wheat; /* Changed from #007bff to wheat */
   font-weight: bold;
 }
+nav a:visited {
+  color: wheat; /* Ensure visited links remain wheat color */
+}
 nav a:hover {
   text-decoration: underline;
 }
