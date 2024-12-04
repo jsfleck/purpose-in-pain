@@ -34,7 +34,7 @@
 
   <section class="default-text-format">
     <h2>Aleksandr Solzhenitsyn</h2>
-    <img class="responsive-image" src="Assets/Solzhenitsynportrait.jpg"/>
+    <img class="responsive-image" src="Assets/AleksandrSolzhenitsynPortrait.jpg"/>
     <p>
       Aleksandr Solzhenitsyn was a member of the Russian aristocracy through the 20th century. Despite this, he lived a remarkably difficult life. Serving as a captain in the Red Army, he was forced to fight in some of the worst battles of World War 2 against the Nazis. After being declared treasonous for criticizing the way Stalin was handling the war, he was sent to the Gulags in Siberia. Solzhenitsyn spent the next eleven years of his life in these forced labor camps, where he eventually developed cancer. Nonetheless, he survived.
     </p>
