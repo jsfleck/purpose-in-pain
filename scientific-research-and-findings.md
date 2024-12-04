@@ -32,14 +32,6 @@
       terms, such as trauma, and this has led to generations that are more
       likely to catastrophize.
     </p>
-    <h2>Antifragility</h2>
-    <img class="responsive-image" src="Assets/antifragility1.jpg" alt="Anti fragility 1" />
-    <img class="responsive-image" src="Assets/antifragility2.jpg" alt="Anti fragility 2" />
-    <p>
-      This term helps illustrate the premise of exposure therapy. Contrary to
-      things that are fragile, things that are antifragile grow or strengthen
-      through some sort of exposure, testing, or challenging.
-    </p>
     <h2>Safetyism</h2>
     <img class="responsive-image" src="Assets/safetyism.webp" alt="safetyism" />
     <p>
@@ -47,6 +39,15 @@
       overly-prioritize protecting their children from harm. In neglect of
       other concerns, such as proper, healthy development, safetyism is
       proving to have long-term, unforeseen consequences.
+    </p>
+    <h2>Antifragility</h2>
+    <img class="responsive-image" src="Assets/antifragility1.jpg" alt="Anti fragility 1" />
+    <p>vs</p>
+    <img class="responsive-image" src="Assets/antifragility2.jpg" alt="Anti fragility 2" />
+    <p>
+      This term helps illustrate the premise of exposure therapy. Contrary to
+      things that are fragile, things that are antifragile grow or strengthen
+      through some sort of exposure, testing, or challenging.
     </p>
     <p>
       <a href="https://www.thecoddling.com/">Jonathan Haidt's Official Website</a>
