@@ -1,7 +1,3 @@
----
-title: Welcome to my blog
----
-
 <style>
   body {
     background-image: url('path/to/your/image.jpg');
