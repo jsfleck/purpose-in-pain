@@ -35,8 +35,7 @@ nav a:hover {
 }
 
 .default-text-format {
-  /* Updated class name */
-  text-align: center;
+  text-align: left;
   margin: 20px auto;
   padding: 20px;
   border-radius: 10px;
