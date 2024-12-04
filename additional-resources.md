@@ -6,7 +6,9 @@
   <section class="default-text-format">
     <h2>ad rev</h2>
     <p>
-      Tsddfasdf
+      <img class="responsive-image" src="Assets/ViktorFrankl1.jpg" alt="ViktorFrankl1.jpg" />
+      <img class="responsive-image" src="Assets/ViktorFrankl2.jpg" alt="ViktorFrankl2.jpg" />
+      <img class="responsive-image" src="Assets/ViktorFrankl3.webp" alt="ViktorFrankl3.jpg" />
     </p>
   </section>
 </body>
