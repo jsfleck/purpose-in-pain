@@ -2,7 +2,11 @@
 
 {% include navigation-tabs.html %} <!-- Include the shared navigation tabs -->
 
-<section class="default-text-format">
-  <h2>Additional Resources</h2>
-  <p>Content for additional resources goes here.</p>
-</section>
+<body>
+  <section class="default-text-format">
+    <h2>ad rev</h2>
+    <p>
+      Tsddfasdf
+    </p>
+  </section>
+</body>

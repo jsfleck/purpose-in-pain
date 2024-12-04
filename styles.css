@@ -59,3 +59,14 @@ nav a:hover {
 p {
   text-indent: 2em;
 }
+
+.responsive-image {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+
+blockquote {
+  color: wheat;
+}
