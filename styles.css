@@ -35,9 +35,10 @@ nav a:hover {
   text-align: center;
   margin: 20px auto;
   padding: 20px;
-  background-color: rgba(255, 255, 255, 0.8);
+  color: blue;
   border-radius: 10px;
   max-width: 800px;
+  font-size: large;
 }
 .mission-statement h2 {
   font-size: 2em;
