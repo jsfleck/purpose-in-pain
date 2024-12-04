@@ -27,7 +27,7 @@
   </section>
 
   <section class="default-text-format">
-    <h2>Fyodor Dostoevsky's books:</h2>
+    <h2>Aleksandr Solzhenitsyn's books:</h2>
     <p class="horizontal-images">
       <img src="Assets/OneDayintheLifeofIvanDenisovich.jpeg" alt="One Day in the Life of Ivan Denisovich" />
       <img src="Assets/CancerWard.jpeg" alt="Cancer Ward" />
