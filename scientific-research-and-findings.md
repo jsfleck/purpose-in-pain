@@ -7,10 +7,7 @@
     <title>Scientific Research and Findings</title>
   </head>
   <body>
-    <nav>
-      <a href="navigation-tabs.html">Navigation Tabs</a>
-      <!-- Include the shared navigation tabs -->
-    </nav>
+    {% include navigation-tabs.html %}
     <section class="default-text-format">
       <h2>Scientific Research and Findings</h2>
       <p>
